@@ -16,7 +16,8 @@ Step 2: Now, if a number is not divisible by 3. (if it is divisible by 3, then i
 
 A number could be divisible by numbers 1/3 of its value.
 
-Step 3: Take the number 127. 127 is not divisible by 2 hence you should check upto 63.5. Secondly, 127 is not divisible by 3. So, you will check up to 127/3 approximately 42. It is not divisible by 5, the divisor should be less than 127/5 approximately 25 not by 7. 
+Step 3: Take the number 127. 127 is not divisible by 2 hence you should check up to 63.5. Secondly, 127 is not divisible by 3. So, you will check up to 127/3 approximately 42. It is not divisible by 5, the divisor should be less than 127/5 approximately 25 not by 7. 
 
+ 
  The divisor would be less than Math.sqrt (n)
 
